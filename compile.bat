@@ -1,0 +1,1 @@
+javac -sourcepath src -cp lib/* -d classes src/app/CookingApp.java

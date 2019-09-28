@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"app"},{"l":"controller"},{"l":"dao"},{"l":"entity"},{"l":"menu"},{"l":"utility"}]
